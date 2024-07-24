@@ -1,10 +1,22 @@
 import React from "react";
 import Header from "./Components/Header.jsx";
-import Body from "./Components/Body.jsx";
 import Footer from "./Components/Footer.jsx";
 
 function App() {
-  return <div>{/* This is the host of all other pages */} </div>;
+  return (/* This is the host of all other pages */
+      <div>     
+        <Header/>
+            
+
+
+
+
+
+            
+         <Footer/>
+     </div>
+
+   );
 }
 
 export default App;
