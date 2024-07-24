@@ -4,7 +4,11 @@ import Body from "./Components/Body.jsx";
 import Footer from "./Components/Footer.jsx";
 
 function App() {
-  return <div>{/* This is the host of all other pages */} </div>;
+  return (
+   <div>
+    <Body/>
+   </div>
+  );
 }
 
 export default App;
