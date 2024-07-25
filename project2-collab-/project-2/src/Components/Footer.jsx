@@ -6,7 +6,7 @@ import twitter from "../assets/SVGs/twitter.svg"
 import youtube from "../assets/SVGs/youtube.svg"
 
 function Footer() {
-  return(/* This is the footer page for the nexcent website */
+  return (
 
     <div className="bg-[#263238] h-[328px] flex justify-evenly px-[100px] py-[64px]">
             <div className="flex flex-col space-y-[8px]">
