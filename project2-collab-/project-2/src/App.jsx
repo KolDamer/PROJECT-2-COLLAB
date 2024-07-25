@@ -6,19 +6,13 @@ import Footer from "./Components/Footer.jsx";
 
 function App() {
   return (
-    <div>
-      {/* This is the host of all other pages */}
-      <Header />
-      <Body1 />
-      <Body2 />
-      <Footer />
-    </div>
+   <div>
+    <Header/>
+    <Body1/>
+    <Body2/>
+    <Footer/>
+   </div>
   );
-
-            
-
-
-
 }
 
 export default App;
