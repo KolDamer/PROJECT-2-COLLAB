@@ -6,7 +6,7 @@ import RightArrow from "../assets/SVGs/Rightarrow.svg";
 import Safeguard from "../assets/SVGs/Safeguarding.svg";
 import Responsibilities from "../assets/SVGs/Responsibilities.svg";
 import Membership from "../assets/SVGs/Membership.svg";
-function Body() {
+function Body2() {
   return (
     <div className=" space-y-[35px]">
       {/* GUBLI'S PART */}
@@ -105,7 +105,7 @@ function Body() {
       </div>
 
       {/* BottomText */}
-      <div className="bg-slate-100">
+      <div className="py-[50px] bg-slate-100">
         <center>
           <h1 className="text-[45px] w-[450px] h-[157px]">
             Pellente suscipit fringilla libero eu.
